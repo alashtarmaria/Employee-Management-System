@@ -24,11 +24,7 @@ This Python-based application is designed to manage employee records efficiently
 - `Employees.db`: SQLite database file where employee records are stored.
 - `logo.png`: A logo image displayed in the application UI.
 
-## How to Run the Application
+## How the Application Will Look
 
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/employees-management-system.git
 
 ![image](https://github.com/user-attachments/assets/1dfab389-69c4-4326-9d2d-04820f8e27a9)
